@@ -1,0 +1,12 @@
+/* Ici le CSS global */
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+body {
+  background-color: rgb(20, 22, 30);
+  color: white;
+}
+
